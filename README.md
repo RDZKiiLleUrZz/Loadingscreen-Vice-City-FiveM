@@ -1,6 +1,5 @@
 # Loadingscreen-Vice-City-FiveM
-
-Screen: https://img15.hostingpics.net/pics/487570loadingscreenvicecity.png
+![alt tag](https://img15.hostingpics.net/pics/793190c39f5b747558923c57506ead26cd78ba1a6ae394.png)
 
 https://fivefrance.fr/topic/51/release-loadingscreen-vice-city
 
